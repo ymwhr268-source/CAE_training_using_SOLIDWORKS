@@ -1,0 +1,67 @@
+{
+    "version": 0,
+    "model_name": "Part1.SLDPRT",
+    "project_name": "lesson16",
+    "config_name": "ﾃﾞﾌｫﾙﾄ",
+    "project_path": "C:\\Users\\sinohara\\Desktop\\lesson16\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 57408,
+        "cells_fluid": 57408,
+        "cells_solid": 1296,
+        "cells_fluid_containing_solid": 672
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "15:23:49+0900",
+        "prepare_geometry_total_time": 2,
+        "cpu_time_solver_total": 55,
+        "iteration": 78,
+        "travel": 1.0109751242511573,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "15:24:40+0900",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 164,
+        "iterations_per_travel": 78
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "SG 力 (X) 1",
+                "unit": "force",
+                "value": 24257.22325885641,
+                "progress": 100.0,
+                "criteria": 387.94989460838434,
+                "delta": 204.60666534058328,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "空気"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 6175 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP5.0",
+        "computer_name": "S040600T",
+        "user_name": "sinohara",
+        "os": "Windows 10 (Version 10.0.19044)",
+        "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "number_of_cores": 4,
+        "memory_avail": 3292,
+        "memory_total": 8122
+    }
+}

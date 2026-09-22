@@ -1,0 +1,7 @@
+2025-Dec-17 15:24:41
+Computer name:	S040600T
+Number of cores used in calculation:	4
+Configuration name:	ﾃﾞﾌｫﾙﾄ
+Project name:	lesson16
+
+Warnings on last iteration: 
